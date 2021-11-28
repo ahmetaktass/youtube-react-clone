@@ -1,7 +1,12 @@
+import { YouTubeLogoİcon, Exploreİcon, Subscriptionsİcon } from './icons /İcons'
 function App() {
   return (
     <div className="App">
-      <h2 className="text-xl">Hello React & Tailwindcss</h2>
+      <div className="bg-white  w-full h-96">
+        <YouTubeLogoİcon />
+        <Exploreİcon />
+        <Subscriptionsİcon />
+      </div>
     </div>
   )
 }
