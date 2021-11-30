@@ -10,6 +10,9 @@ module.exports = {
         'primary-color': '#030303',
         'secondary-color': '#aaa',
       },
+      width: {
+        '728': '728px',
+      },
     },
   },
   variants: {
